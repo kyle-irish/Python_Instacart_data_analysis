@@ -17,3 +17,11 @@ Instacart Teams are looking to answer the questions below to guide their decisio
     * Age? Income? Certain types of goods? Family status?
   * What differences can you find in ordering habits of different customer profiles?
     * Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+
+
+Data Used:
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed [here](https://www.instacart.com/datasets/grocery-shopping-2017)					
+
+Note on Data:  Below data was fabricated for learning purposes							
+* Prices column						
+* [Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)						
