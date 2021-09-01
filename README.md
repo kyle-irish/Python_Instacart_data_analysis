@@ -1,7 +1,7 @@
-Use Python to import, explore, wrangle, clean, analyze, visualize, and export Instacart data.
+### Use Python to import, explore, wrangle, clean, analyze, visualize, and export Instacart data. Final report with recommendations in excel .xlsx file. 
 
 
-Project Purpose and Questions:
+###### Project Purpose and Questions:
 Instacart Teams are looking to answer the questions below to guide their decisions for future targeted marketing campaigns.
 * What are the busiest days of the week and hours of the day?
 * Are there particular times of the day when people spend the most money?
@@ -19,7 +19,7 @@ Instacart Teams are looking to answer the questions below to guide their decisio
     * Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 
-Data Used:
+###### Data Used:
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed [here](https://www.instacart.com/datasets/grocery-shopping-2017)					
 
 Note on Data:  Below data was fabricated for learning purposes							
